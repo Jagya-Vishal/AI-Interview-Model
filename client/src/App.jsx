@@ -26,7 +26,7 @@ function App() {
       <div>
     <Router>
   
-      <div className='flex justify-between items-center' >
+    <div className='flex justify-between items-center' >
          <img src={logo} alt='Logo' className='w-[180px]' />
 
 
